@@ -1,0 +1,10 @@
+# 手写源码和说明统一使用 UTF-8 文本；Git 自动处理本地换行。
+* text=auto
+*.cpp text eol=crlf
+*.h text eol=crlf
+*.rc text eol=crlf
+*.vcxproj text eol=crlf
+*.ps1 text eol=crlf
+*.md text eol=lf
+*.jpg binary
+*.png binary

@@ -1,0 +1,27 @@
+# Visual Studio 与编译中间文件
+.vs/
+**/bin/
+**/obj/
+**/.work/
+*.user
+*.suo
+*.pdb
+*.ilk
+*.ipdb
+*.iobj
+*.obj
+*.tlog
+*.exe
+*.dll
+*.lib
+*.res
+
+# 本地会话数据、日志、备份和历史截图不属于公开源码
+*.log
+*.bak
+*.tmp
+shot*.png
+.dsh/
+workspace.json
+session_projcache.json
+CHANGE_HISTORY.md
